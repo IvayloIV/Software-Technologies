@@ -1,0 +1,18 @@
+﻿div {
+    padding:30px;
+    border:3px dotted blue;
+    border-radius:5px;
+}
+
+    div > div {
+        border: 3px dashed red;
+    }
+
+        div div div {
+            border:3px solid green;
+            text-align:center;
+            font-size:30px;
+            padding:15px;
+        }
+
+

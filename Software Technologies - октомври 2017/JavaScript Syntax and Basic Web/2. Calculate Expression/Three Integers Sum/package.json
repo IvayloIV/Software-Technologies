@@ -1,0 +1,9 @@
+{
+  "name": "three-integers-sum",
+  "version": "0.0.0",
+  "description": "Three Integers Sum",
+  "main": "app.js",
+  "author": {
+    "name": "MASTER"
+  }
+}

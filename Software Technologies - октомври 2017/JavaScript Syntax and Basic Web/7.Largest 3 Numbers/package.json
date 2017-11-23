@@ -1,0 +1,9 @@
+{
+  "name": "7.largest-3-numbers",
+  "version": "0.0.0",
+  "description": "7.Largest 3 Numbers",
+  "main": "app.js",
+  "author": {
+    "name": "MASTER"
+  }
+}

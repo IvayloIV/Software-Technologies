@@ -1,0 +1,9 @@
+{
+  "name": "extract-capital-case",
+  "version": "0.0.0",
+  "description": "Extract CapitalCase",
+  "main": "app.js",
+  "author": {
+    "name": "MASTER"
+  }
+}

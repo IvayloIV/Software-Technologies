@@ -1,0 +1,9 @@
+{
+  "name": "4.-product",
+  "version": "0.0.0",
+  "description": "4. Product",
+  "main": "app.js",
+  "author": {
+    "name": "MASTER"
+  }
+}

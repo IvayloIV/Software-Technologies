@@ -1,0 +1,9 @@
+{
+  "name": "5-print-numbers-from-1",
+  "version": "0.0.0",
+  "description": "5 Print Numbers from 1",
+  "main": "app.js",
+  "author": {
+    "name": "MASTER"
+  }
+}

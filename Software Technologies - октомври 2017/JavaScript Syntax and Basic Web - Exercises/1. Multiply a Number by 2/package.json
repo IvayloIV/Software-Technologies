@@ -1,0 +1,9 @@
+{
+  "name": "1.-multiply-a-number-by-2",
+  "version": "0.0.0",
+  "description": "1. Multiply a Number by 2",
+  "main": "app.js",
+  "author": {
+    "name": "MASTER"
+  }
+}

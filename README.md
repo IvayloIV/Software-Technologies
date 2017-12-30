@@ -15,3 +15,5 @@
 11.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BE%D0%BA%D1%82%D0%BE%D0%BC%D0%B2%D1%80%D0%B8%202017/Java%20Basic%20Syntax" > <b>Java Basic Syntax</b> </a> 
 12.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BE%D0%BA%D1%82%D0%BE%D0%BC%D0%B2%D1%80%D0%B8%202017/Java%20Basic%20Syntax%20-%20Exercises" > <b>Java Basic Syntax - Exercises</b> </a> 
 13.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BE%D0%BA%D1%82%D0%BE%D0%BC%D0%B2%D1%80%D0%B8%202017/Java%20Basic%20Web%20-%20Exercises" > <b>Java Basic Web - Exercises</b> </a> 
+14.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BE%D0%BA%D1%82%D0%BE%D0%BC%D0%B2%D1%80%D0%B8%202017/Java%20Blog%20Basic%20Functionality%20-%20Exercises/Java%20Blog%20Basic/blog" > <b>Java Blog Basic Functionality - Exercises</b> </a> 
+

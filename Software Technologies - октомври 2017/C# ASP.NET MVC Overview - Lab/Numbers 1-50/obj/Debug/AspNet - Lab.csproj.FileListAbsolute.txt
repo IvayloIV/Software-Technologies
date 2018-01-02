@@ -1,0 +1,42 @@
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\ApplicationInsights.config
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\AspNet - Lab.dll.config
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\AspNet - Lab.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\AspNet - Lab.pdb
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Antlr3.Runtime.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.AI.Web.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Newtonsoft.Json.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\System.Web.Helpers.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\System.Web.Mvc.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\System.Web.Optimization.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\System.Web.Razor.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\System.Web.WebPages.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\System.Web.WebPages.Razor.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\WebGrease.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\System.Web.Helpers.xml
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\System.Web.Mvc.xml
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\System.Web.Optimization.xml
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\System.Web.Razor.xml
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\System.Web.WebPages.xml
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\System.Web.WebPages.Razor.xml
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Antlr3.Runtime.pdb
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Newtonsoft.Json.xml
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\bin\Microsoft.AI.Web.xml
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\obj\Debug\AspNet - Lab.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\obj\Debug\AspNet - Lab.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\obj\Debug\AspNet - Lab.dll
+C:\Users\MASTER\Desktop\ExerCBlog\Exersice2\AspNet - Lab\obj\Debug\AspNet - Lab.pdb

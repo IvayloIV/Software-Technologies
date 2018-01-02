@@ -1,0 +1,37 @@
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\TODO list.dll.config
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\TODO list.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\TODO list.pdb
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\Antlr3.Runtime.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\Newtonsoft.Json.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\System.Web.Helpers.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\System.Web.Mvc.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\System.Web.Optimization.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\System.Web.Razor.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\System.Web.WebPages.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\System.Web.WebPages.Razor.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\WebGrease.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\System.Web.Helpers.xml
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\System.Web.Mvc.xml
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\System.Web.Optimization.xml
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\System.Web.Razor.xml
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\System.Web.WebPages.xml
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\System.Web.WebPages.Razor.xml
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\Antlr3.Runtime.pdb
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\Newtonsoft.Json.xml
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\obj\Debug\TODO list.csprojResolveAssemblyReference.cache
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\obj\Debug\TODO list.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\obj\Debug\TODO list.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\obj\Debug\TODO list.pdb
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\EntityFramework.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\EntityFramework.SqlServer.dll
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\EntityFramework.xml
+C:\Users\MASTER\Desktop\Software-Technologies\Software Technologies - октомври 2017\C# ASP.NET MVC Overview - Lab\TODO list\bin\EntityFramework.SqlServer.xml

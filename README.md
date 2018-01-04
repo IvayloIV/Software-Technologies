@@ -16,4 +16,7 @@
 12.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BE%D0%BA%D1%82%D0%BE%D0%BC%D0%B2%D1%80%D0%B8%202017/Java%20Basic%20Syntax%20-%20Exercises" > <b>Java Basic Syntax - Exercises</b> </a> 
 13.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BE%D0%BA%D1%82%D0%BE%D0%BC%D0%B2%D1%80%D0%B8%202017/Java%20Basic%20Web%20-%20Exercises" > <b>Java Basic Web - Exercises</b> </a> 
 14.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BE%D0%BA%D1%82%D0%BE%D0%BC%D0%B2%D1%80%D0%B8%202017/Java%20Blog%20Basic%20Functionality%20-%20Exercises/Java%20Blog%20Basic/blog" > <b>Java Blog Basic Functionality - Exercises</b> </a> 
+15.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BE%D0%BA%D1%82%D0%BE%D0%BC%D0%B2%D1%80%D0%B8%202017/C%23%20ASP.NET%20MVC%20Overview%20-%20Lab" > <b>C# ASP.NET MVC Overview - Lab</b> </a> 
+16.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BE%D0%BA%D1%82%D0%BE%D0%BC%D0%B2%D1%80%D0%B8%202017/C%23%20ASP.NET%20MVC%20Overview%20-%20Exercises" > <b>C# ASP.NET MVC Overview - Exercises</b> </a> 
+17.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BE%D0%BA%D1%82%D0%BE%D0%BC%D0%B2%D1%80%D0%B8%202017/C%23%20Blog%20-%20Exercises" > <b>C#: Blog Basic Functionality - Exercises</b> </a> 
 

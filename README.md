@@ -21,5 +21,5 @@
 17.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BE%D0%BA%D1%82%D0%BE%D0%BC%D0%B2%D1%80%D0%B8%202017/C%23%20Blog%20-%20Exercises" > <b>C#: Blog Basic Functionality - Exercises</b> </a> 
 
 ## <b>Software Technologies - Exams</b>
-1.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Exam%20Preparation%20I/Skeletons" > <b>Exam Preparation I</b> </a> 
-2.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Exam%20Preparation%20II" > <b>Exam Preparation II</b> </a> 
+1.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Exam%20Preparation%20I/Skeletons" > <b>Exam Preparation I - IMDB - CED</b> </a> 
+2.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Exam%20Preparation%20II" > <b>Exam Preparation II - TODO List - CD</b> </a> 

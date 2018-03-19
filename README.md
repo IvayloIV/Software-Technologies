@@ -6,6 +6,7 @@
 2.  [**HTML5 and CSS - Exercises**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BC%D0%B0%D1%80%D1%82%202018/HTML5%20and%20CSS%20-%20Exercises)
 3.  [**HTML5 and CSS - Blog Design**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BC%D0%B0%D1%80%D1%82%202018/HTML5%20and%20CSS%20-%20Blog%20Design)
 4.  [**JavaScript Syntax and Basic Web- Lab**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BC%D0%B0%D1%80%D1%82%202018/JavaScript%20Syntax%20and%20Basic%20Web-%20Lab)
+4.  [**JavaScript Basics - Exercises**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BC%D0%B0%D1%80%D1%82%202018/JavaScript%20Basics%20-%20Exercises)
 
 ## <b>Software Technologies - октомври 2017</b>
 1.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BE%D0%BA%D1%82%D0%BE%D0%BC%D0%B2%D1%80%D0%B8%202017/HTML5%20and%20CSS%20-%20Exercises" > <b>HTML5 and CSS - Exercises</b> </a> 

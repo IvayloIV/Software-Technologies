@@ -1,0 +1,16 @@
+﻿@model TODOList.Models.Task
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <h3>Edit</h3>
+        @using (Html.BeginForm("Edit", "Task", FormMethod.Post, new { @class = "form-inline" }))
+        {
+        <input type="text" name="title" class="form-control" value="@Model.Title" />
+        <input type="submit" value="Edit Task" class="btn btn-default" />
+
+        }
+    </div>
+</div>

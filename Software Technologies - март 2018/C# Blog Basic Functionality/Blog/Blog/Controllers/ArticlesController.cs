@@ -51,7 +51,7 @@ namespace Blog.Controllers
 
             return View(article);
         }
-
+        
         // GET: Articles/Create
         [Authorize]
         public IActionResult Create()
@@ -90,7 +90,14 @@ namespace Blog.Controllers
                 return NotFound();
             }
 
-            var article = _context.Articles.Where(a => a.Id == id).FirstOrDefault();
+            var article = _context.Articles
+                .Include(a => a.Author)
+                .FirstOrDefault(m => m.Id == id);
+
+            if (IsUserAuthorizedToEdit(article) == false)
+            {
+                return Forbid();
+            }
 
             if (article == null)
             {

@@ -1,0 +1,31 @@
+@model ShoppingList.Models.Product
+
+@if (ViewBag.message != null)
+{
+<div style="background-color:red; color:white; font-size:24px; text-align:center; padding:8px;">@ViewBag.message</div>
+}
+
+@{
+    ViewBag.Title = "Add New Product";
+}
+
+<h1>Add New Product</h1>
+
+<section>
+        @using (Html.BeginForm("Create", "Product", FormMethod.Post))
+        {
+             @Html.AntiForgeryToken()
+    
+            <div>
+                <label for="priority">Priority</label>
+                <input type="text" id="priority" name="priority" value="@Model.Priority" placeholder="0">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" value="@Model.Name">
+                <label for="quantity">Quantity</label>
+                <input type="text" id="quantity" name="quantity" value="@Model.Quantity" placeholder="0">
+                <input type="hidden" id="status" name="status" value="not bought">
+                <button type="submit" class="accept">Create</button>
+                <button type="button" class="cancel" onclick="location.href='/';return false;">Cancel</button>
+            </div>
+        }
+</section>

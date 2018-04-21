@@ -16,7 +16,8 @@ class ProjectController extends Controller
      */
     public function index(Request $request)
     {
-        // TODO
+        $projects = $this->getDoctrine()->getRepository(Project::class)->findAll();
+        return $this->render("project/index.html.twig", ['projects' => $projects]);
     }
 
     /**
@@ -24,7 +25,17 @@ class ProjectController extends Controller
      */
     public function create(Request $request)
     {
-        // TODO
+        $project = new Project();
+        $form = $this->createForm(ProjectType::class, $project);
+        $form->handleRequest($request);
+
+        if ($form->isSubmitted()){
+            $em = $this->getDoctrine()->getManager();
+            $em->persist($project);
+            $em->flush();
+            return $this->redirect("/");
+        }
+        return $this->render("project/create.html.twig", ["form" => $form->createView()]);
     }
 
     /**
@@ -33,7 +44,20 @@ class ProjectController extends Controller
 
     public function edit($id, Request $request)
     {
-        // TODO
+        $project = $this->getDoctrine()->getRepository(Project::class)->find($id);
+        if ($project == null){
+            return $this->redirect('/');
+        }
+        $form = $this->createForm(ProjectType::class, $project);
+        $form->handleRequest($request);
+
+        if ($form->isSubmitted()){
+            $em = $this->getDoctrine()->getManager();
+            $em->merge($project);
+            $em->flush();
+            return $this->redirect("/");
+        }
+        return $this->render("project/edit.html.twig", ["form" => $form->createView(), 'project' => $project]);
     }
 
     /**
@@ -44,6 +68,19 @@ class ProjectController extends Controller
      */
     public function delete($id, Request $request)
     {
-        // TODO
+        $project = $this->getDoctrine()->getRepository(Project::class)->find($id);
+        if ($project == null){
+            return $this->redirect('/');
+        }
+        $form = $this->createForm(ProjectType::class, $project);
+        $form->handleRequest($request);
+
+        if ($form->isSubmitted()){
+            $em = $this->getDoctrine()->getManager();
+            $em->remove($project);
+            $em->flush();
+            return $this->redirect("/");
+        }
+        return $this->render("project/delete.html.twig", ["form" => $form->createView(), 'project' => $project]);
     }
 }

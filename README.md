@@ -41,5 +41,10 @@
 17.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20%D0%BE%D0%BA%D1%82%D0%BE%D0%BC%D0%B2%D1%80%D0%B8%202017/C%23%20Blog%20-%20Exercises" > <b>C#: Blog Basic Functionality - Exercises</b> </a>  
 
 ## <b>Software Technologies - Exams</b>
-1.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Exam%20Preparation%20I/Skeletons" > <b>Exam Preparation I - IMDB - CED</b> </a> 
-2.  <a href="https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Exam%20Preparation%20II" > <b>Exam Preparation II - TODO List - CD</b> </a> 
+1.  [**Exam Preparation I_Old_Version**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Exam%20Preparation%20I_Old_Version)
+2.  [**Exam Preparation II_Old_Version**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Exam%20Preparation%20II_Old_Version)
+3.  [**Exam Preparation III_Old_Version**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Exam%20Preparation%20III_Old_Version)
+4.  [**Software Tech Exam 2 Sept 2017 Old-Version**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Software-Tech-Exam-2-Sept-2017-Old-Version)
+5.  [**Software Tech Exam 5 Sept 2017 Old-Version**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Software-Tech-Exam-5-Sept-2017-Old_Version)
+6.  [**Software Tech Exam 21 Dec 2017 Old-Version**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Software-Tech-Exam-21-Dec-2017-Old_Version)
+7.  [**Exam Preparation I-Project Rider**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Exam%20Preparation%20I-Project-Rider)

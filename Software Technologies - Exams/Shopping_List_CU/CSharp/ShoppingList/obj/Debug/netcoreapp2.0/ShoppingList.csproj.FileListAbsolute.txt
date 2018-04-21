@@ -1,0 +1,11 @@
+C:\Users\Nikolay\Desktop\exam_prep3_shoppingList\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.deps.json
+C:\Users\Nikolay\Desktop\exam_prep3_shoppingList\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.runtimeconfig.json
+C:\Users\Nikolay\Desktop\exam_prep3_shoppingList\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.runtimeconfig.dev.json
+C:\Users\Nikolay\Desktop\exam_prep3_shoppingList\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.dll
+C:\Users\Nikolay\Desktop\exam_prep3_shoppingList\CSharp\ShoppingList\bin\Debug\netcoreapp2.0\ShoppingList.pdb
+C:\Users\Nikolay\Desktop\exam_prep3_shoppingList\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\exam_prep3_shoppingList\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\exam_prep3_shoppingList\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\Nikolay\Desktop\exam_prep3_shoppingList\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.AssemblyInfo.cs
+C:\Users\Nikolay\Desktop\exam_prep3_shoppingList\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.dll
+C:\Users\Nikolay\Desktop\exam_prep3_shoppingList\CSharp\ShoppingList\obj\Debug\netcoreapp2.0\ShoppingList.pdb

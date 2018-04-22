@@ -52,4 +52,4 @@
 9.  [**Exam Preparation - Kanban Board**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Kanban_Board_CU)
 10.  [**Exam Preparation - Log Noziroh**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Log_Noziroh_CRD)
 11.  [**Exam Preparation - Shopping List**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Shopping_List_CU)
-12.  [**Exam Preparation - Cat Shop**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Cat_Shop_CUD)
+12.  [**Cat Shop**](https://github.com/IvayloIV/Software-Technologies/tree/master/Software%20Technologies%20-%20Exams/Cat_Shop_CUD)
